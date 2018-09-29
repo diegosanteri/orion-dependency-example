@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        {
+            "name": "userModel",
+            "path": "/src/model/userModel",
+            "isModule":  true,
+            "dependencies": []
+        }
+    ]
+}

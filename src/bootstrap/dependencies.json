@@ -1,0 +1,3 @@
+{
+    "imports": ["controller", "service", "model"]
+}

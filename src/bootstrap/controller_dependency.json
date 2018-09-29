@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "name": "userController",
+            "path": "/src/controller/userController",
+            "dependencies": ["userService"]
+        }
+    ]
+}
