@@ -3,7 +3,7 @@
         {
             "name": "userService",
             "path": "/src/service/userService",
-            "dependencies": ["userModel"]
+            "dependencies": ["userModel", "OrionDiLibExample"]
         }
     ]
 }

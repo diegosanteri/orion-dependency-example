@@ -1,3 +1,4 @@
 {
+    "externals": ["orion-di-lib-test"],
     "imports": ["controller", "service", "model"]
 }
