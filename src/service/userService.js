@@ -1,5 +1,5 @@
 module.exports = class UserService {
-    constructor(userModel) {
+    constructor({userModel}) {
         this.userModel = userModel;
     }
 

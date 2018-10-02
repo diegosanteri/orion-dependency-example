@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.16.3",
     "nodemon": "^1.18.4",
-    "orion-dependency-injection": "1.1.1",
+    "orion-dependency-injection": "2.0.0",
     "orion-di-lib-example": "https://github.com/diegosanteri/orion-di-lib-example/tarball/master"
   }
 }
